@@ -1,0 +1,17 @@
+from,to,weight
+JB,FL,3
+JB,TdV,3
+JB,VL,3
+JB,M,3
+JB,Q,2
+JB,MP,2
+JB,GG,1
+M,MP,2
+M,Q,2
+M,FL,1
+M,GG,2
+M,TdV,1
+M,VL,1
+MP,TdV,1
+Q,TdV,1
+FL,VL,1
